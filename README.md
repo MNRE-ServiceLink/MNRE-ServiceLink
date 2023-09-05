@@ -4,6 +4,6 @@ MNRE-ServiceLink is the repository of the Service Link Center of MNRE, based in 
 1. Monri Kiatphaophan 
 2. Prachakchai Atkonghan
 3. Thatsani Detchaprarom
-4. PhiPhat PhuengBun
+4. PhiPhat Phuengbun
 5. Chiraphon Kanchana-aramwong 
 6. Chirapha Hasunheng 
